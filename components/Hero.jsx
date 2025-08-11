@@ -35,9 +35,13 @@ const Hero = () => {
       </p>
 
         <div className='mt-8 space-x-4'>
+            <a href="#contact">
             <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 rounded-full cursor-pointer'>Contact With Me</button>
-            <a href="../public/Inderjeet_Resume (1).pdf" target="_blank" 
+            </a>
+
+            <a href="../public/Inderjeet-Resume.pdf" target="_blank" 
             rel="noopener noreferrer"><button className='bg-gradient-to-r from-pink-500 to-yellow-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 rounded-full cursor-pointer'>Resume</button></a>
+
            
         </div>
 
