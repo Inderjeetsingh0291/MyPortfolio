@@ -28,7 +28,7 @@ const Hero = () => {
     />
 
         </span>
-        ,Full-Stack Develop
+        ,Full-Stack Developer
       </h1>
       <p className='mt-4 text-lg text-gray-300 '>
         I specialize in bulding modern and responsive Web applications.
