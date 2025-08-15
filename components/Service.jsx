@@ -43,10 +43,10 @@ const Service = () => {
                 <div key={Service.id}
                 className='bg-gray-800 px-8 rounded-lg hover:shadow-lg transform transition-transform duration-300 hover:scale-105'
                 >
-                    <div className='text-right text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-blue-400 ' 
+                    {/* <div className='text-right text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-blue-400 ' 
                     >
                         {}
-                    </div>
+                    </div> */}
                     <h3 className='mt-2 text-2xl font-bold text-transparent 
 bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 text-left'
                     >
