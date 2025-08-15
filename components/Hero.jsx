@@ -1,5 +1,6 @@
 import React from 'react';
 import IMG_0174 from '../src/assets/IMG_0174.JPG';
+// import Inderjeet-Resume from '../public/Inderjeet-Resume.pdf';
 import { TypeAnimation } from 'react-type-animation';
 
 
